@@ -1,0 +1,7 @@
+Flask==2.3.* # Or latest stable Flask version
+Flask-SQLAlchemy==3.1.* # Or latest stable
+Flask-Migrate==4.0.* # Or latest stable
+psycopg2-binary          # PostgreSQL adapter
+python-dotenv            # For loading .env file locally
+boto3                    # AWS SDK for Python
+gunicorn                 # Production WSGI server
